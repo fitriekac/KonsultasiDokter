@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1491381784 source:f:\tubesa asd\tubesasd\dokter.cpp
+	"mainHead.h"
+	"dokter.h"
+	<windows.h>
+	<iostream>
+
+1491381784 f:\tubesa asd\tubesasd\dokter.h
+	"mainHead.h"
+
+1491381784 source:f:\tubesa asd\tubesasd\main.cpp
+	"mainHead.h"
+	"relasi.h"
+	"dokter.h"
+	"pasien.h"
+
+1491314273 f:\tubesa asd\tubesasd\pasien.h
+	"mainHead.h"
+
+1491313695 source:f:\tubesa asd\tubesasd\pasien.cpp
+	"pasien.h"
+	<iostream>
+	<windows.h>
+
+1490971143 f:\tubesa asd\tubesasd\mainhead.h
+	<conio.h>
+	<iostream>
+	<string>
+	<stdio.h>
+	<windows.h>
+
+1491314273 f:\tubesa asd\tubesasd\relasi.h
+	"pasien.h"
+	"mainHead.h"
+	"dokter.h"
+
+1491314227 source:f:\tubesa asd\tubesasd\relasi.cpp
+	"relasi.h"
+	"pasien.h"
+	"dokter.h"
+
+1490970306 f:\tubesa asd\tubesasd\menun.h
+	"mainHead.h"
+	"relasi.h"
+	"pasien.h"
+	"dokter.h"
+
+1490963781 source:f:\tubesa asd\tubesasd\menu.cpp
+	"mainHead.h"
+	"relasi.h"
+	"menun.h"
+	"dokter.h"
+	"dokter.h"
+	<conio.h>
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1491408287 source:g:\tubesasd\dokter.cpp
+	"mainHead.h"
+	"dokter.h"
+	<windows.h>
+	<iostream>
+
+1491381940 g:\tubesasd\mainhead.h
+	<conio.h>
+	<iostream>
+	<string>
+	<stdio.h>
+	<windows.h>
+
+1491408435 g:\tubesasd\dokter.h
+	"mainHead.h"
+
+1491400564 source:g:\tubesasd\pasien.cpp
+	"pasien.h"
+	<iostream>
+	<windows.h>
+
+1491400564 g:\tubesasd\pasien.h
+	"mainHead.h"
+
+1491408435 source:g:\tubesasd\main.cpp
+	"mainHead.h"
+	"relasi.h"
+	"dokter.h"
+	"pasien.h"
+
+1491398123 g:\tubesasd\relasi.h
+	"pasien.h"
+	"mainHead.h"
+	"dokter.h"
+
+1491407328 source:g:\tubesasd\relasi.cpp
+	"relasi.h"
+	"pasien.h"
+	"dokter.h"
+
